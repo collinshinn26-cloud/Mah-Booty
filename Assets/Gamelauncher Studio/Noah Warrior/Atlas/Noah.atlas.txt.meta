@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 706607b66b71f8849bbc14a541851c6e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 411542
+  packageName: Noah Warrior 2D Animated Spine Character
+  packageVersion: 1.0.0.1
+  assetPath: Assets/Gamelauncher Studio/Noah Warrior/Atlas/Noah.atlas.txt
+  uploadId: 1006000
